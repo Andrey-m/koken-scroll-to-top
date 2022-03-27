@@ -1,0 +1,23 @@
+{ 
+  "name": "Scroll to top",
+  "version": "1.0",
+  "description": "Displays a link to scroll to the top of the document",
+  "demo": "http://www.alina-lebedeva.com/",
+  "author": {
+    "name": "Andrey Mitrokhin",
+    "link": "http://mitrokhin.ru"
+  },
+
+  "data": {
+    "scroll_text": {
+      "label": "Scroll Text",
+      "info": "The text you want to show in the scroll-to-top area",
+      "type": "string"
+    },
+    "custom_css": {
+      "label": "Custom CSS",
+      "info": "Want to add you own styles? Add it here!",
+      "type": "text"
+    }
+  }    
+}
